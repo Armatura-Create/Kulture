@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "298189012467",
+    "firebase_url": "https://kulture-android.firebaseio.com",
+    "project_id": "kulture-android",
+    "storage_bucket": "kulture-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298189012467:android:3d9347fb18f42985",
+        "android_client_info": {
+          "package_name": "app.kulture.kucherenko.init.com.kulture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298189012467-gkevgam8o1a9jet18qq413oasuiko7us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaIzD3yGuJGeKN3S3PSCjQzCfLzO7Bc8E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

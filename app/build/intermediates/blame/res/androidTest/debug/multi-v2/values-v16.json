@@ -1,0 +1,148 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/card-form-2.3.2.aar/0d96c51f9995154cb4e9d2439d6bc8bd/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "473"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a550bd1a1b18d9ce69809c519693c29a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/drop-in-2.3.8.aar/74bdf4f64df6cb8c0faacdc500a3f456/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "245"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "478",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "668"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20321ae1897395ff68ceaff7141f5169/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/card-form-2.3.2.aar/0d96c51f9995154cb4e9d2439d6bc8bd/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "234"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "294",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "473"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a550bd1a1b18d9ce69809c519693c29a/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/drop-in-2.3.8.aar/74bdf4f64df6cb8c0faacdc500a3f456/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "245"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "478",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "668"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/20321ae1897395ff68ceaff7141f5169/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

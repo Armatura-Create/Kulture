@@ -1,0 +1,106 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a550bd1a1b18d9ce69809c519693c29a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/card-form-2.3.2.aar/0d96c51f9995154cb4e9d2439d6bc8bd/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "328,392,465",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "387,460,533"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6e02e6579048ccd0bf0337542954087/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "538",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "715"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a550bd1a1b18d9ce69809c519693c29a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/card-form-2.3.2.aar/0d96c51f9995154cb4e9d2439d6bc8bd/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,119,192",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "114,187,260"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "328,392,465",
+                        "endColumns": "63,72,72",
+                        "endOffsets": "387,460,533"
+                    }
+                },
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f6e02e6579048ccd0bf0337542954087/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "538",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "715"
+                    }
+                }
+            ]
+        }
+    ]
+}

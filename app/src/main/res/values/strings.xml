@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Kulture</string>
+
+    <string name="host">http://174.138.54.52:8889</string>
+    <string name="host_shop">http://174.138.54.52:8000/</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search for locations in your city</string>
+
+    <string name="title_activity_bottom">Bottom</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="title_classes">Classes</string>
+    <string name="title_bookings">My Bookings</string>
+    <string name="title_profile">My profile</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_apparels">Apparels</string>
+    <string name="title_more">More</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="or">OR</string>
+    <string name="sign_up_fc">SIGN UP WITH FACEBOOK</string>
+    <string name="sign_up_email">SIGN UP WITH EMAIL</string>
+    <string name="have_account">ALREADY A KULTURE MEMBER? LOGIN</string>
+    <string name="sign_up_header">BE THE FIRST…AND LAST!</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="loginFirst">LOGIN</string>
+
+    <!--facebook param-->
+    <string name="facebook_app_id">284878005352228</string>
+    <string name="fb_login_protocol_scheme">fb284878005352228</string>
+
+    <string name="discover_kulture_activities">DISCOVER KULTURE ACTIVITIES</string>
+    <string name="browse_activities">Browse activities and plan your week</string>
+
+    <!--Profile Stings-->
+    <string name="payments">Payments</string>
+    <string name="credits_packages">Credits Packages</string>
+    <string name="upgrade_to_kulture">Upgrade to KULTURE member</string>
+    <string name="how_to">How To?</string>
+    <string name="contacts">Contact us</string>
+    <string name="share">Share</string>
+    <string name="payments_description"><![CDATA[View your receipts & payments details]]></string>
+    <string name="credits_description"><![CDATA[Show number of packages]]></string>
+    <string name="upgrade_description"><![CDATA[Enjoy member discounts for packages]]></string>
+    <string name="addresses"><![CDATA[Need help? Connect with us]]></string>
+    <string name="share_this_app">Share this app</string>
+
+    <!--Home Strings-->
+    <string name="bouncefit">BOUNCEFIT</string>
+    <string name="poundfit">POUNDFIT</string>
+    <string name="dance">DANCE</string>
+    <string name="music">MUSIC</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="this_week">This week</string>
+
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+
+    <string name="image_logo_description">Logo</string>
+    <string name="send_phone">Save phone</string>
+    <string name="title_activity_send_phone">Phone</string>
+
+    <string name="sign_in_fb">SIGN IN WITH FACEBOOK</string>
+    <string name="hint_name">Login</string>
+    <string name="hint_phone">MOBILE NO +65</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+    <string name="not_a_member">NOT A MEMBER YET?</string>
+    <string name="skip">Skip</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="need_help">Need help?</string>
+
+    <string name="filter_bounce">BounceFit</string>
+    <string name="filter_pounds">PoundFit</string>
+    <string name="filter_dance">Dance</string>
+    <string name="filter_music">Music</string>
+
+    <string-array name="sort_classes">
+        <item>Date</item>
+        <item>Price</item>
+    </string-array>
+
+    <!--Contact Strings-->
+    <string name="were_at_contact">WE’RE AT</string>
+    <string name="were_at_contact_text">1 Stadium Place, #02–05 Kallang Wave Mall Singapore 397628 (Beside Astons)</string>
+    <string name="opening_hours_contact">OPENING HOURS</string>
+    <string name="opening_hours_contact_text">Weekdays 11:30am - 10:00pm  Weekends 10:00am - 8:00pm</string>
+    <string name="contact_us_at_contact">CONTACT US AT</string>
+
+    <string name="website_contact">Website:</string>
+    <string name="website_contact_text">www.kulture.com.sg</string>
+
+    <string name="email_contact">Email:</string>
+    <string name="email_contact_text">info@kulture.com.sg</string>
+
+    <string name="tel_contact">Tel:</string>
+    <string name="tel_contact_text">63846680</string>
+
+    <string name="facebook_contact">Facebook:</string>
+    <string name="facebook_contact_text">www.facebook.com/kulturestudios</string>
+
+    <string name="instagram_contact">Instagram:</string>
+    <string name="instagram_contact_text">\@kulture_studios</string>
+
+    <string name="youtube_contact">YouTube:</string>
+    <string name="youtube_contact_text">kultureStudios</string>
+
+    <!--Bookings Strings-->
+    <string name="book_now">Book now</string>
+    <string name="hint_password_again">Password again</string>
+    <string name="last_past_activities">List of previous activities</string>
+    <string name="cancel">CANCEL</string>
+    <string name="reserve">BOOK NOW</string>
+
+    <!--firebase start-->
+    <string name="quickstart_message">Click the SUBSCRIBE TO NEWS button below to subscribe to the
+        news topic. Messages sent to the news topic will be received. The LOG TOKEN button logs the
+        InstanceID token to logcat.</string>
+    <string name="subscribe_to_news">Subscribe To News</string>
+    <string name="log_token">Log Token</string>
+    <string name="msg_subscribed">Subscribed to news topic</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <!--
+        This is the name that users will see when interacting with this channel.
+        It should describe the category of notifications that will be sent through this channel
+     -->
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="detail">Detail</string>
+    <string name="payments_history">Payments History</string>
+    <string name="choice_friends">Choice Friends</string>
+    <string name="about">ABOUT</string>
+    <string name="info">INFO</string>
+    <!--firebase end-->
+
+
+    <string name="continue_text">Continue</string>
+    <string name="secret_key">KEY in your Email</string>
+    <string name="hint_new_password_again">New Password again</string>
+    <string name="hint_new_password">New Password</string>
+    <string name="shopURL">http://kulture.lyzhov.pro/shop/</string>
+    <string name="trapline">Trampolines</string>
+
+    <!--Type Classes-->
+    <string name="bounce_fit">bounce_fit</string>
+    <string name="pound_fit">pound_fit</string>
+    <string name="pound_dance">pound_dance</string>
+    <string name="pound_music">pound_music</string>
+
+    <string name="join_waiting_list">JOIN WAITING LIST</string>
+    <string name="cancellation_deadline">CANCELLATION DEADLINE</string>
+    <string name="single_class_non_members">SINGLE CLASS (NON MEMBERS)</string>
+    <string name="date_detail">DATE</string>
+    <string name="time_detail">TIME</string>
+    <string name="snackbar_text">There are no classes. Choose another filter.</string>
+    <string name="not_member">To buy this package you need a membership status.</string>
+    <string name="vip_description">Unlimited user</string>
+    <string name="upgrade_to_unlimited">Upgrade to unlimited member</string>
+    <string name="you_are_not_unlimited">Your status does not have enough to reserve a class for this day. Try later.</string>
+    <string name="leave_waiting">LEAVE WAITING LIST</string>
+    <string name="payment_type_vip">payment_type_vip</string>
+    <string name="payment_type_membership">payment_type_membership</string>
+
+</resources>

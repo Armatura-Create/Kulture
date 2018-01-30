@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                                   
+
+    <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:tag="layout/item_0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <ImageView
+            android:id="@+id/imageTrampoline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:scaleType="fitCenter"
+            android:src="@drawable/trampoline_booking_free" />
+
+        <TextView
+            android:id="@+id/index"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:padding="4dp"
+            android:text="0"
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:textStyle="bold" />
+    </FrameLayout>
+         

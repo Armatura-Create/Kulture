@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a550bd1a1b18d9ce69809c519693c29a/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/alex/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/a550bd1a1b18d9ce69809c519693c29a/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

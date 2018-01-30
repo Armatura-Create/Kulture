@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail_class.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_detail_class.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_in.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_sign_up.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/content_sign_up.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_forgot_password.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/content_forgot_password.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_full_screen_image.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_full_screen_image.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_how_to.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_how_to.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_detail_class.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/content_detail_class.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_shop.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row5.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/row5.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_contact.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/content_contact.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_send_phone_number.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_send_phone_number.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_sign_in.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/content_sign_in.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row6.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/row6.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_payments_history.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_payments_history.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_bounds_pounds.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/fragment_bounds_pounds.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_choice_friends.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_choice_friends.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_bounds_pounds.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/fragment_bounds_pounds.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_item_my_bookings_reservations.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/recycler_item_my_bookings_reservations.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reservations_my_bookings.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/fragment_reservations_my_bookings.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bounds_content.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/bounds_content.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_my_profile.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/fragment_my_profile.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_item_my_bookings_waiting_list.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/recycler_item_my_bookings_waiting_list.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_sign_up.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/content_sign_up.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_reservations_my_bookings.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/fragment_reservations_my_bookings.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_profile.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_main.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_item_my_bookings_waiting_list.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/recycler_item_my_bookings_waiting_list.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_full_screen_image.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_full_screen_image.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_forgot_password.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/content_forgot_password.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_send_phone_number.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/content_send_phone_number.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/detail_card.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/detail_card.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/detail_item.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/detail_item.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_detail_class.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/content_detail_class.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_shop.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_send_phone_number.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_send_phone_number.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/item.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_contact.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_forgot_password.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/detail_item.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/detail_item.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_send_phone_number.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/content_send_phone_number.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_contact.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/content_contact.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_my_profile.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/fragment_my_profile.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_how_to.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_how_to.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_item_my_bookings_reservations.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/recycler_item_my_bookings_reservations.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail_class.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_detail_class.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_item_list_previous.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/recycler_item_list_previous.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/content_sign_in.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/content_sign_in.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_contact.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_contact.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/bounds_content.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/bounds_content.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_payments_history.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_payments_history.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_in.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/recycler_item_list_previous.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/recycler_item_list_previous.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/detail_card.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/detail_card.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_forgot_password.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_choice_friends.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/activity_choice_friends.xml"
+    },
+    {
+        "merged": "/home/alex/Документы/Temp/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row6.xml",
+        "source": "/home/alex/Документы/Temp/Kulture-Android/app/src/main/res/layout/row6.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sign_up.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/row5.xml",
+        "source": "/home/alex/AndroidStudioProjects/2/Kulture-Android/app/src/main/res/layout/row5.xml"
+    }
+]

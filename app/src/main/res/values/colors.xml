@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2f3449</color>
+    <color name="colorPrimaryDark">#292d3e</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="alpha_card">#66131313</color>
+    <color name="colorProfile">#7c7cb6</color>
+    <color name="green">#007500</color>
+    <color name="yellow">#ffff66</color>
+    <color name="blue">#0000ff</color>
+    <color name="orange">#ff9900</color>
+    <color name="alpha_middle">#ccffffff</color>
+    <color name="orange_special">#f7a30a</color>
+
+</resources>

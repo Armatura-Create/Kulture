@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_credits"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10sp"
+            android:text="Credits: 1"
+            android:textColor="@android:color/black"
+            android:textSize="16sp" />
+
+        <LinearLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioGroup
+                android:id="@+id/group"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <RadioButton
+                    android:id="@+id/single"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:buttonTint="@color/orange_special"
+                    android:text="More:"
+                    android:textAlignment="textStart"
+                    android:textColor="@android:color/black" />
+
+                <RadioButton
+                    android:id="@+id/fifteen"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:buttonTint="@color/orange_special"
+                    android:text="15:"
+                    android:textAlignment="textStart"
+                    android:textColor="@android:color/black" />
+
+                <RadioButton
+                    android:id="@+id/thirty"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:buttonTint="@color/orange_special"
+                    android:text="30:"
+                    android:textAlignment="textStart"
+                    android:textColor="@android:color/black" />
+
+                <RadioButton
+                    android:id="@+id/gr4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="start"
+                    android:buttonTint="@color/orange_special"
+                    android:text="30:"
+                    android:textAlignment="textStart"
+                    android:textColor="@android:color/black" />
+            </RadioGroup>
+
+            <RadioGroup
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/pr1"
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:gravity="center|start"
+                    android:paddingEnd="5dp"
+                    android:paddingStart="5dp"
+                    android:text="30$"
+                    android:textColor="@color/green" />
+
+                <TextView
+                    android:id="@+id/pr2"
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:gravity="center|start"
+                    android:paddingEnd="5dp"
+                    android:paddingStart="5dp"
+                    android:text="40$"
+                    android:textColor="@color/green" />
+
+                <TextView
+                    android:id="@+id/pr3"
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:gravity="center|start"
+                    android:paddingEnd="5dp"
+                    android:paddingStart="5dp"
+                    android:text="50$"
+                    android:textColor="@color/green" />
+
+                <TextView
+                    android:id="@+id/pr4"
+                    android:layout_width="match_parent"
+                    android:layout_height="32dp"
+                    android:gravity="center|start"
+                    android:paddingEnd="5dp"
+                    android:paddingStart="5dp"
+                    android:text="50$"
+                    android:textColor="@color/green" />
+            </RadioGroup>
+        </LinearLayout>
+    </LinearLayout>
+</layout>

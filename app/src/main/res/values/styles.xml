@@ -1,0 +1,58 @@
+<resources>
+
+    <declare-styleable name="PoundsRaw">
+        <attr name="poundsCount" format="integer" />
+        <attr name="poundsSrc" format="string" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomToggle">
+        <attr name="customState" format="integer" />
+        <attr name="customText_0" format="string" />
+        <attr name="customText_1" format="string" />
+        <attr name="customText_2" format="string" />
+        <attr name="customText_3" format="string" />
+        <attr name="customImage_0" format="reference" />
+        <attr name="customImage_1" format="reference" />
+        <attr name="customImage_2" format="reference" />
+        <attr name="customImage_3" format="reference" />
+    </declare-styleable>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/ThemeTransparentActionBar</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/ThemeTransparentActionBar</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/orange_special</item>
+    </style>
+
+    <style name="ThemeTransparentActionBar"
+        parent="Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@null</item>
+        <!-- Support library compatibility -->
+
+        <item name="background">@null</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorPrimary">#787878</item>
+        <item name="colorAccent">@color/orange_special</item>
+        <item name="colorPrimaryDark">#1d1d1d</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="CustomTextAppearance" parent="TextAppearance.MaterialCalendarWidget.Date">
+        <item name="android:textColor">@color/my_date_text_color</item>
+    </style>
+
+</resources>
